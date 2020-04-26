@@ -1,15 +1,8 @@
-# flappy-bird-mobile
+<img src="https://github.com/AndriySavic/ANDROID_LAB/blob/master/ANDROID_PROJECT_SAVICH/Screenshot/%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2.gif" width="850">
 
-Flappy Bird Mobile is a game developed with the main purpose of using the most suitable data structure for the situation besides deepening knowledge in android development and object oriented programming.
+<img src="https://github.com/AndriySavic/ANDROID_LAB/blob/master/ANDROID_PROJECT_SAVICH/Screenshot/1111.png" width="250">
 
-The data structure used to develop the game was a queue, it was used to store the pipes indexes being drawn in the screen, these indexes correspond to the array of pipes.
+<img src="https://github.com/AndriySavic/ANDROID_LAB/blob/master/ANDROID_PROJECT_SAVICH/Screenshot/2222.png" width="250">
 
-### Overview
-<div>
-
-  <img src="https://raw.githubusercontent.com/arufonsekun/computer-science-codes/master/fase-3/Programacao-I/Screenshot_20190625-023432.png" height="550" width="311"  hspace="15"/>
-  
-  <img src="https://raw.githubusercontent.com/arufonsekun/computer-science-codes/master/fase-3/Programacao-I/Screenshot_20190625-023442.png" height="550" width="311"/>
-   
-</div>
+<img src="https://github.com/AndriySavic/ANDROID_LAB/blob/master/ANDROID_PROJECT_SAVICH/Screenshot/3333.png" width="250">
 
